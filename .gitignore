@@ -10,4 +10,7 @@ data
 logs/*
 notes
 z-backup
-META.yml
+*META.*
+*.SKIP
+*.skip
+Data-FormValidator-Constraints-DateTime-*
