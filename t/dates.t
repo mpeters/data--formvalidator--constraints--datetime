@@ -20,8 +20,8 @@ my $bad_date        = '0-312-005';
 my $real_bad_date   = '2';
 my $today           = DateTime->today->mdy('-');
 # these are relative to the above $good_date;
-my $distant_future_date = '03-03-2110'; 
-my $future_date         = '03-03-2010'; 
+my $distant_future_date = DateTime->today->add(years => 100)->mdy('-');
+my $future_date         = DateTime->today->add(years => 2)->mdy('-');
 my $past_date           = '03-03-1979';
 my $distant_past_date   = '03-03-1879';
 
