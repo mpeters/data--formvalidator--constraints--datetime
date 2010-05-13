@@ -27,7 +27,7 @@ our %EXPORT_TAGS = (
     mysql   => [qw(to_mysql_datetime to_mysql_date to_mysql_timestamp)],
     pg      => [qw(to_pg_datetime)],
 );
-our $VERSION = '1.09';
+our $VERSION = '1.10';
 
 =head1 NAME
 
