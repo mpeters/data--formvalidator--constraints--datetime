@@ -984,3 +984,9 @@ And if you do, shame on you for having such horrible names.
 L<Data::FormValidator>, L<DateTime>. L<DateTime::Format::Strptime>,
 L<DateTime::Format::MySQL>, L<DateTime::Format::Pg>
 
+=head1 COPYRIGHT & LICENSE
+
+Copyright Michael Peters 2010, all rights reserved.
+
+This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
