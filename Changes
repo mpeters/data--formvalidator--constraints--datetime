@@ -1,7 +1,7 @@
 Revision history for Perl extension Data::FormValidator::Constraints::DateTime
 
 1.11 (Jun 01, 2010)
-    - Added missing copywright and license notification.
+    - Added missing copyright and license notification.
 
 1.10 (May 13, 2010)
     - Fixed test failures that relied on hard coded future dates. [RT #57456, from iarnell]

@@ -15,7 +15,7 @@ name: Data-FormValidator-Constraints-DateTime
 provides:
   Data::FormValidator::Constraints::DateTime:
     file: lib/Data/FormValidator/Constraints/DateTime.pm
-    version: 1.10
+    version: 1.11
 recommends:
   DateTime::Format::MySQL: 0.0301
   DateTime::Format::Pg: 0.050
@@ -27,4 +27,4 @@ requires:
   perl: v5.6.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.10
+version: 1.11
